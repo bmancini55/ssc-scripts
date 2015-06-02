@@ -1,0 +1,11 @@
+{
+  "name": "ssc-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for managing SSC",
+  "author": "Brian Mancini <bmancini@gmail.com>",
+  "dependencies": {
+    "moment": "^2.10.3",
+    "q": "^1.4.1",
+    "request": "^2.57.0"
+  }
+}
