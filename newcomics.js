@@ -63,7 +63,7 @@ function make() {
           "pageDesc": "New comic book day for " + datetext + " at South Side Comics Pittsburgh",
           "eventStart": null,
           "eventEnd": null,
-          "template": "news/comics.hbs",
+          "template": "news/comics.jade",
           "title": "Available This Week",
           "subtitle": "New Comics on " + datesub,
           "previewImage": "http://cdn.southsidecomicspgh.com/uploads/news/comics-" + datefile + ".jpg",
