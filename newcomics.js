@@ -66,7 +66,7 @@ function make() {
           "template": "news/comics.jade",
           "title": "Available This Week",
           "subtitle": "New Comics on " + datesub,
-          "previewImage": "http://cdn.southsidecomicspgh.com/uploads/news/comics-" + datefile + ".jpg",
+          "previewImage": "https://s3.amazonaws.com/southsidecomics/uploads/news/comics-" + datefile + ".jpg",
           "data": {
             "guid": guid,
             "items": items
